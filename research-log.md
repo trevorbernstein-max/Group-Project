@@ -1,5 +1,6 @@
 # People and Leadership:
 
+
 ## Lego:
 
 1. https://www.lego.com/en-us/aboutus/lego-group/management/executive-leadership-team/niels-b-christiansen?locale=en-us&age-gate=grown_up - Niels B Christiansen: president/CEO
