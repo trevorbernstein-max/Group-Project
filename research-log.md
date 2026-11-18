@@ -39,3 +39,68 @@
 
 
 # Comparison
+
+
+------------------------------------------------------------------------------------------
+
+# CSR
+
+
+
+
+## Lego:
+
+
+1. **Economic Records**: (2025 Financial Performance). According to the LEGO Group 2025 Full Year Results, annual revenue increased by 12% to a record DKK 83.5 billion, while net profit rose 21% to DKK 16.7 billion. 
+
+
+
+
+—-------------------------------------------------------------------------------------
+
+
+# Product and Impact
+
+
+## Mattel
+
+
+1. https://corporate.mattel.com/brand-portfolio
+
+
+*All of Mattel's children companies solo and with partners
+
+
+2. https://shop.mattel.com/collections/best-sellers
+
+
+*Mattel's Best sellers currently
+
+
+3. https://corporate.mattel.com/purposeful-play
+
+
+*Tells how mattel products impact its consumers
+
+
+##  Lego
+
+
+1. https://www.bricksworld.com/blogs/news/whats-trending-the-top-5-lego-themes-of-2025
+
+
+*Lego's top five themes with a description of it
+
+
+2.
+
+
+—-------------------------------------------------------------------------------------
+
+
+
+# Home Slide
+   Lego: Lego manufactures and distributes interlocking plastic construction toy bricks, themed playsets, video games, and related media. Founded in 1993, in Billund, Denmark, and with over 33,801 employees worldwide, lego lets people turn their creativity into reality.
+
+
+   Mattel: Mattel manufactures and distributes iconic toys, dolls, action figures, and games—including Barbie, Hot Wheels, Fisher-Price, and UNO. Founded in 1945 in Los Angeles, California, and with over 31,000 employees worldwide, Mattel helps empower generations to explore the wonder of childhood and reach their full potential.
