@@ -1,0 +1,20 @@
+[
+    {
+        "company": "Lego",
+        "Full Name": "The LEGO Group",
+        "Employee-count": "33801",
+        "Founded": "August 10th, 1932",
+        "Headquarters-Location": "Billund, Denmark",
+        "Revenue": "$12.9 Billion",
+        "Flagship": "System-In-Play"
+    },
+    {
+        "company": "Mattel",
+        "Full Name": "Mattel Inc.",
+        "Employee-count": "31000",
+        "Founded": "January 20th, 1945",
+        "Headquarters-Location": "El Segundo, CA, USA",
+        "Revenue": "$5.35 Billion",
+        "Flagship": "Barbie & HotWheels"
+    }
+]

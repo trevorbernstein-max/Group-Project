@@ -36,3 +36,6 @@
 
 **Year Started**: 2002
 **What the record connects them to**: He is responsible for all aspects of Mattel's global logistical system, and engineering.
+
+
+# Comparison

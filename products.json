@@ -1,0 +1,11 @@
+[
+  { "company": "lego", "name": "LEGO Star Wars Millennium Falcon", "price": 849.99, "rating": 4.5 },
+  { "company": "lego", "name": "LEGO Executor Super Star Destroyer", "price": 799.99, "rating": 4.4 },
+  { "company": "lego", "name": "LEGO Batman Returns BatMobile", "price": 229.99, "rating": 4.0 },
+  { "company": "lego", "name": "LEGO The Fire Knight Mech", "price": 119.99, "rating": 4.9 },
+
+  { "company": "mattel", "name": "Barbie Dreamhouse 2026 Edition", "price": 215.99, "rating": 4.2 },
+  { "company": "mattel", "name": "Hot Wheels Mario Kart Rainbow Road Raceway Set", "price": 111.99, "rating": 4.1 },
+  { "company": "mattel", "name": "UNO Classic Card Game", "price": 11.50, "rating": 3.9 },
+  { "company": "mattel", "name": "Fisher-Price Little People Ultimate Mountain Playse", "price": 46.99, "rating": 4.5 }
+]
